@@ -24,7 +24,7 @@ const footerDetails = [
     img:
       "https://raw.githubusercontent.com/rohan9896/Testing-for-CSS-component-library/a1e961baa4dda6a20bb50123b9aa102aea3091ef/icons/ecomm/customer_support.svg",
     line1: "Customer Support",
-    line2: "rohang9896@gmail.com",
+    line2: "jadonvaibhav@gmail.com",
   },
 ];
 
